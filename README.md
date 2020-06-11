@@ -1,6 +1,6 @@
 # Lab-notebook
 
-## Mostly literature review
+## Author: Runhang Shu
 
 **Dig into a reprentative paper in a topic**
 
