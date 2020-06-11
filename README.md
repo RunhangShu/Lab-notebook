@@ -1,7 +1,11 @@
 # Lab-notebook
 
-Literature reviewed, molecular techniques, bioinformatics
+## Mostly literature review
 
-Statistics
+**Dig into a reprentative paper in a topic**
 
-Everything interesting would be put here
+Extract these infomation from the paper 
+1. molecular techniques 
+2. bioinformatics
+3. Statistics
+4. Everything that I do not know 
